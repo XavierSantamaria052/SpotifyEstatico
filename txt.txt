@@ -1,0 +1,22 @@
+const updateSearchResults = () => {
+    setSearchResults([
+      {
+        title: "Daten",
+        artist: "Creppy Nuts",
+        duration: "2:53",
+        image: "https://medium-media.vgm.io/albums/03/121630/121630-72ef98ef5546.jpg",
+      },
+      {
+        title: "Kaoyaku",
+        artist: "Creppy Nuts",
+        duration: "3:09",
+        image: "https://cdn-images.dzcdn.net/images/cover/c780792bd879f95e180467a7bf23ee01/1900x1900-000000-80-0-0.jpg",
+      },
+      {
+        title: "Nichiyoubi Yorino Shisha",
+        artist: "Creppy Nuts",
+        duration: "6:09",
+        image: "https://i.ytimg.com/vi/SOataBcj7Ek/maxresdefault.jpg",
+      },
+    ]);
+  };
